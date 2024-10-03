@@ -1,0 +1,9 @@
+# Shortcuts
+
+alias reload="source ./.bash_profile"
+alias rimraf="rm -rf"
+alias list="ls -la"
+
+# Network
+
+alias network-check="ping -t 8.8.8.8"
